@@ -1,13 +1,12 @@
----
-# 👋 Hi, I'm **Rajat Karki**
+README.md
+👋 Hi, I'm Rajat Karki
 
-**Revenue Cycle Data Analyst | Business Analyst | Analytics & BI Professional**
-📍 Stamford, CT, USA 
-📧 **[rajat.karki15@gmail.com](mailto:rajat.karki15@gmail.com)** | 📱 203-906-0736
+Revenue Cycle Data Analyst | Business Analyst | Analytics & BI Professional
+📍 Stamford, CT, USA
+📧 rajat.karki15@gmail.com
+ | 📱 203-906-0736
 
-I specialize in **data analytics, revenue cycle optimization, business analysis, and BI reporting**. With experience in healthcare operations, IT support, and financial analytics, I help organizations transform raw data into meaningful insights that drive better decisions and operational efficiency.
-
----
+I specialize in data analytics, revenue cycle optimization, business analysis, and BI reporting. With experience in healthcare operations, IT support, and financial analytics, I help organizations transform raw data into meaningful insights that drive better decisions and operational efficiency.
 
 ## 🧠 **About Me**
 
