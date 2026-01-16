@@ -1,10 +1,4 @@
-Here is a polished, professional **README.md** generated from your resume.
-You can copy/paste this directly into GitHub for your portfolio.
-
 ---
-
-# **README.md**
-
 # 👋 Hi, I'm **Rajat Karki**
 
 **Revenue Cycle Data Analyst | Business Analyst | Analytics & BI Professional**
