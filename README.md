@@ -1,5 +1,5 @@
-README.md
-👋 Hi, I'm Rajat Karki
+
+RAJAT KARKI, MBA 
 
 Revenue Cycle Data Analyst | Business Analyst | Analytics & BI Professional
 📍 Stamford, CT, USA
